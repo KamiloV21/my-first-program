@@ -10,7 +10,12 @@
       "ProjectGuid": "63124948-1806-4483-b461-bb359f759831",
       "DisplayName": "ConsoleApp1",
       "ColorIndex": 1
+    },
+    "df00d097-8403-451a-a22d-61bcdc637a69": {
+      "ProjectGuid": "df00d097-8403-451a-a22d-61bcdc637a69",
+      "DisplayName": "lesson-data-types",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
