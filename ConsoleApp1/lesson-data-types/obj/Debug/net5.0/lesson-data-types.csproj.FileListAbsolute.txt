@@ -1,0 +1,16 @@
+C:\Максим\My progec\ConsoleApp1\lesson-data-types\bin\Debug\net5.0\lesson-data-types.exe
+C:\Максим\My progec\ConsoleApp1\lesson-data-types\bin\Debug\net5.0\lesson-data-types.deps.json
+C:\Максим\My progec\ConsoleApp1\lesson-data-types\bin\Debug\net5.0\lesson-data-types.runtimeconfig.json
+C:\Максим\My progec\ConsoleApp1\lesson-data-types\bin\Debug\net5.0\lesson-data-types.runtimeconfig.dev.json
+C:\Максим\My progec\ConsoleApp1\lesson-data-types\bin\Debug\net5.0\lesson-data-types.dll
+C:\Максим\My progec\ConsoleApp1\lesson-data-types\bin\Debug\net5.0\ref\lesson-data-types.dll
+C:\Максим\My progec\ConsoleApp1\lesson-data-types\bin\Debug\net5.0\lesson-data-types.pdb
+C:\Максим\My progec\ConsoleApp1\lesson-data-types\obj\Debug\net5.0\lesson-data-types.csproj.AssemblyReference.cache
+C:\Максим\My progec\ConsoleApp1\lesson-data-types\obj\Debug\net5.0\lesson-data-types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Максим\My progec\ConsoleApp1\lesson-data-types\obj\Debug\net5.0\lesson-data-types.AssemblyInfoInputs.cache
+C:\Максим\My progec\ConsoleApp1\lesson-data-types\obj\Debug\net5.0\lesson-data-types.AssemblyInfo.cs
+C:\Максим\My progec\ConsoleApp1\lesson-data-types\obj\Debug\net5.0\lesson-data-types.csproj.CoreCompileInputs.cache
+C:\Максим\My progec\ConsoleApp1\lesson-data-types\obj\Debug\net5.0\lesson-data-types.dll
+C:\Максим\My progec\ConsoleApp1\lesson-data-types\obj\Debug\net5.0\ref\lesson-data-types.dll
+C:\Максим\My progec\ConsoleApp1\lesson-data-types\obj\Debug\net5.0\lesson-data-types.pdb
+C:\Максим\My progec\ConsoleApp1\lesson-data-types\obj\Debug\net5.0\lesson-data-types.genruntimeconfig.cache
