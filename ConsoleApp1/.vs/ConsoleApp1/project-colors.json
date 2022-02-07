@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7dcb5b81-ffce-4b3e-b3bc-33b18c666152": {
+      "ProjectGuid": "7dcb5b81-ffce-4b3e-b3bc-33b18c666152",
+      "DisplayName": "lesson-data-types",
+      "ColorIndex": 0
+    },
+    "63124948-1806-4483-b461-bb359f759831": {
+      "ProjectGuid": "63124948-1806-4483-b461-bb359f759831",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

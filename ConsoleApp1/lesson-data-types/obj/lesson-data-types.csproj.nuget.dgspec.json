@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Максим\\My progec\\ConsoleApp1\\lesson-data-types\\lesson-data-types.csproj": {}
+    "C:\\Users\\Max\\Documents\\my-first-program\\ConsoleApp1\\lesson-data-types\\lesson-data-types.csproj": {}
   },
   "projects": {
-    "C:\\Максим\\My progec\\ConsoleApp1\\lesson-data-types\\lesson-data-types.csproj": {
+    "C:\\Users\\Max\\Documents\\my-first-program\\ConsoleApp1\\lesson-data-types\\lesson-data-types.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Максим\\My progec\\ConsoleApp1\\lesson-data-types\\lesson-data-types.csproj",
+        "projectUniqueName": "C:\\Users\\Max\\Documents\\my-first-program\\ConsoleApp1\\lesson-data-types\\lesson-data-types.csproj",
         "projectName": "lesson-data-types",
-        "projectPath": "C:\\Максим\\My progec\\ConsoleApp1\\lesson-data-types\\lesson-data-types.csproj",
+        "projectPath": "C:\\Users\\Max\\Documents\\my-first-program\\ConsoleApp1\\lesson-data-types\\lesson-data-types.csproj",
         "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
-        "outputPath": "C:\\Максим\\My progec\\ConsoleApp1\\lesson-data-types\\obj\\",
+        "outputPath": "C:\\Users\\Max\\Documents\\my-first-program\\ConsoleApp1\\lesson-data-types\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Max\\AppData\\Roaming\\NuGet\\NuGet.Config",
