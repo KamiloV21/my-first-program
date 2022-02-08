@@ -1,0 +1,16 @@
+C:\Users\Max\Documents\my-first-program\ConsoleApp1\homework-3-condition-loop\bin\Debug\net5.0\homework-3-condition-loop.exe
+C:\Users\Max\Documents\my-first-program\ConsoleApp1\homework-3-condition-loop\bin\Debug\net5.0\homework-3-condition-loop.deps.json
+C:\Users\Max\Documents\my-first-program\ConsoleApp1\homework-3-condition-loop\bin\Debug\net5.0\homework-3-condition-loop.runtimeconfig.json
+C:\Users\Max\Documents\my-first-program\ConsoleApp1\homework-3-condition-loop\bin\Debug\net5.0\homework-3-condition-loop.runtimeconfig.dev.json
+C:\Users\Max\Documents\my-first-program\ConsoleApp1\homework-3-condition-loop\bin\Debug\net5.0\homework-3-condition-loop.dll
+C:\Users\Max\Documents\my-first-program\ConsoleApp1\homework-3-condition-loop\bin\Debug\net5.0\ref\homework-3-condition-loop.dll
+C:\Users\Max\Documents\my-first-program\ConsoleApp1\homework-3-condition-loop\bin\Debug\net5.0\homework-3-condition-loop.pdb
+C:\Users\Max\Documents\my-first-program\ConsoleApp1\homework-3-condition-loop\obj\Debug\net5.0\homework-3-condition-loop.csproj.AssemblyReference.cache
+C:\Users\Max\Documents\my-first-program\ConsoleApp1\homework-3-condition-loop\obj\Debug\net5.0\homework-3-condition-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Documents\my-first-program\ConsoleApp1\homework-3-condition-loop\obj\Debug\net5.0\homework-3-condition-loop.AssemblyInfoInputs.cache
+C:\Users\Max\Documents\my-first-program\ConsoleApp1\homework-3-condition-loop\obj\Debug\net5.0\homework-3-condition-loop.AssemblyInfo.cs
+C:\Users\Max\Documents\my-first-program\ConsoleApp1\homework-3-condition-loop\obj\Debug\net5.0\homework-3-condition-loop.csproj.CoreCompileInputs.cache
+C:\Users\Max\Documents\my-first-program\ConsoleApp1\homework-3-condition-loop\obj\Debug\net5.0\homework-3-condition-loop.dll
+C:\Users\Max\Documents\my-first-program\ConsoleApp1\homework-3-condition-loop\obj\Debug\net5.0\ref\homework-3-condition-loop.dll
+C:\Users\Max\Documents\my-first-program\ConsoleApp1\homework-3-condition-loop\obj\Debug\net5.0\homework-3-condition-loop.pdb
+C:\Users\Max\Documents\my-first-program\ConsoleApp1\homework-3-condition-loop\obj\Debug\net5.0\homework-3-condition-loop.genruntimeconfig.cache
