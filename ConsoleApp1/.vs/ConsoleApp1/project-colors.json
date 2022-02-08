@@ -15,7 +15,17 @@
       "ProjectGuid": "df00d097-8403-451a-a22d-61bcdc637a69",
       "DisplayName": "lesson-data-types",
       "ColorIndex": 2
+    },
+    "e8c23c79-9a6f-4f45-8bf1-bf2755cf85b1": {
+      "ProjectGuid": "e8c23c79-9a6f-4f45-8bf1-bf2755cf85b1",
+      "DisplayName": "lesson-3-condition-loop",
+      "ColorIndex": 3
+    },
+    "78682365-02d6-4d81-8b3c-981d4f1beeae": {
+      "ProjectGuid": "78682365-02d6-4d81-8b3c-981d4f1beeae",
+      "DisplayName": "HomeworkTest",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }
