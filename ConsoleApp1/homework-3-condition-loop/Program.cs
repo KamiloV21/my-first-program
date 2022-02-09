@@ -2,8 +2,10 @@
 
 namespace homework_3_condition_loop
 {
+    //dhfjghdgjdf
     internal class Program
     {
+        //fkdkjhkjdsfkjs
         static void Main(string[] args)
         {
             bool parse;
