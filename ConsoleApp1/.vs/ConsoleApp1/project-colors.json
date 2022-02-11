@@ -30,7 +30,17 @@
       "ProjectGuid": "b6e77630-a875-4c84-b99a-0d6d6741b914",
       "DisplayName": "lesson-4-methods",
       "ColorIndex": 5
+    },
+    "e6bcc42e-62be-46d4-b123-26344e8d3dea": {
+      "ProjectGuid": "e6bcc42e-62be-46d4-b123-26344e8d3dea",
+      "DisplayName": "homework-4-methods",
+      "ColorIndex": 6
+    },
+    "78682365-02d6-4d81-8b3c-981d4f1beeae": {
+      "ProjectGuid": "78682365-02d6-4d81-8b3c-981d4f1beeae",
+      "DisplayName": "HomeworkTest",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 8
 }
