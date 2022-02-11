@@ -25,7 +25,12 @@
       "ProjectGuid": "3ce8a671-e366-49af-ae54-1fa0f1401e3d",
       "DisplayName": "homework-3-condition-loop",
       "ColorIndex": 4
+    },
+    "b6e77630-a875-4c84-b99a-0d6d6741b914": {
+      "ProjectGuid": "b6e77630-a875-4c84-b99a-0d6d6741b914",
+      "DisplayName": "lesson-4-methods",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }
