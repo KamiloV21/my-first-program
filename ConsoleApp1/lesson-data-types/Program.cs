@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Timers;
 
 namespace lesson_data_types
 {
@@ -34,6 +35,9 @@ namespace lesson_data_types
             int a2 = Convert.ToInt32(Math.Pow(x, 2));
             Console.WriteLine(-6*a1+5*a2-10*x+15);
 
+            var hours = TimeSpan.FromHours(6);
+            Console.WriteLine(TimeSpan.FromHours(6));
+
             char b1 = (char)Math.Abs(x);
             char b2 = (char)Math.Sin(x);
             Console.WriteLine(b1 * b2);
@@ -53,7 +57,13 @@ namespace lesson_data_types
             var XDays = NewYear - now;
             var YDays = now - LastNewYear;
             Console.WriteLine($"До Нового года осталось: {XDays.Days}");
-            Console.WriteLine(YDays.Days); 
+            Console.WriteLine(YDays.Days);
+
+            var timer = new Timer();
+            timer.Interval = TimeSpan.FromSeconds(5).TotalMilliseconds;
+            timer.Elapsed += (a, e) => Console.WriteLine("Some");
+            timer.Start();
+            Console.ReadKey();
         }
     }
 }

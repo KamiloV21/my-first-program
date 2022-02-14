@@ -1,4 +1,5 @@
 ﻿using System;
+//using System.Linq;
 
 namespace homework_4_methods
 {
@@ -60,5 +61,10 @@ namespace homework_4_methods
         {
             val++;
         }
+        /*static double Min(double x, double y, double z)
+        {
+            double [] numbers = {x,y,z};
+            return numbers.Min();
+        }*/
     }
 }
