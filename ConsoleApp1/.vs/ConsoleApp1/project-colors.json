@@ -45,7 +45,12 @@
       "ProjectGuid": "3ed4a6dc-57e8-492b-8a27-a8de2aa5c700",
       "DisplayName": "lesson-6-arrays",
       "ColorIndex": 8
+    },
+    "2aaadf96-31e8-4351-aa7e-3d7650629c32": {
+      "ProjectGuid": "2aaadf96-31e8-4351-aa7e-3d7650629c32",
+      "DisplayName": "homework-6-arrays",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 10
 }
