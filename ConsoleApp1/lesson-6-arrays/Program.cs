@@ -93,17 +93,18 @@ namespace lesson_6_arrays
         //2, 5, 1, 6        --- бульбашка
         //2, 1, 5, 6
         //1, 2, 5, 6
-        static int[] Sort(int[] array)      //bable(бульбашкою)
+        static int[] Sort(int[] array)
         {
-            for(int i = 0; i < array.Length; i++)
+            for (int i = 0; i < array.Length; i++)
             {
-                for(int j=0;j< array.Length-1; j++)
+                for (int j = 0; j < array.Length - 1; j++)
                 {
-                    if(array[i] > array[j + 1])
+                    if (array[j] > array[j + 1])
                     {
+                        // ReSharper disable once SwapViaDeconstruction
                         int temp = array[j];
-                        array[j] = array[j+1];
-                        array[j+1] = temp;
+                        array[j] = array[j + 1];
+                        array[j + 1] = temp;
                     }
                 }
             }
