@@ -40,7 +40,12 @@
       "ProjectGuid": "e6bcc42e-62be-46d4-b123-26344e8d3dea",
       "DisplayName": "homework-4-methods",
       "ColorIndex": 7
+    },
+    "3ed4a6dc-57e8-492b-8a27-a8de2aa5c700": {
+      "ProjectGuid": "3ed4a6dc-57e8-492b-8a27-a8de2aa5c700",
+      "DisplayName": "lesson-6-arrays",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 9
 }
