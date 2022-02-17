@@ -7,7 +7,7 @@ namespace homework_6_arrays
         static void Main(string[] args)
         {
             const int N = 10;
-            int[] array = new int[N]; // asa
+            int[] array = new int[N]; 
 
             int i = 0;
 
