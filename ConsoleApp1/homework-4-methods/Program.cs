@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 //using System.Linq;
 
 namespace homework_4_methods
@@ -9,16 +10,24 @@ namespace homework_4_methods
         {
             bool parse;
             string userInput;
-            Console.WriteLine("Введите число a");
+            Console.WriteLine("Введите число a: ");
             userInput = Console.ReadLine();
             parse = int.TryParse(userInput, out int a);
-            Console.WriteLine("Введите число b");
+            Console.WriteLine("Введите число b: ");
             userInput = Console.ReadLine();
             parse = int.TryParse(userInput, out int b);
 
             Console.WriteLine($"Максимальное число: {Max(a, b)}");
             Console.WriteLine($"Минимальное число: {Min(a, b)}");
             Console.WriteLine(TrySumIfOdd(a, b));
+
+            Console.WriteLine("Введите строку которую хотите повторить: ");
+            string x = Console.ReadLine();
+            Console.WriteLine("Введите количество повторений: ");
+            string n = Console.ReadLine();
+            parse = int.TryParse(n, out int N);
+            Console.WriteLine("Ваше сообщение много раз: ");
+            Console.WriteLine(Repeat(x, N));
         }
 
         static int Max(int a, int b)
@@ -61,10 +70,15 @@ namespace homework_4_methods
         {
             val++;
         }
-        /*static double Min(double x, double y, double z)
+
+        static string Repeat(string x,int N)
         {
-            double [] numbers = {x,y,z};
-            return numbers.Min();
-        }*/
+            string output = x;
+            for (uint i = 0; i < N; i++)
+            {
+                output += x;
+            }
+            return output;
+        }
     }
 }
