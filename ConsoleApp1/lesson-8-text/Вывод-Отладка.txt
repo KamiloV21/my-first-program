@@ -1,0 +1,11 @@
+﻿"lesson-8-text.exe" (CoreCLR: DefaultDomain). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Private.CoreLib.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"lesson-8-text.exe" (CoreCLR: clrhost). Загружено "C:\Users\Max\Documents\my-first-program\ConsoleApp1\lesson-8-text\bin\Debug\net5.0\lesson-8-text.dll". Символы загружены.
+"lesson-8-text.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Runtime.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"lesson-8-text.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Text.RegularExpressions.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"lesson-8-text.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Console.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"lesson-8-text.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.IO.FileSystem.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"lesson-8-text.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Collections.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"lesson-8-text.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Memory.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"lesson-8-text.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Threading.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"lesson-8-text.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Text.Encoding.Extensions.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+Программа "[1092] lesson-8-text.exe" завершилась с кодом 0 (0x0).
