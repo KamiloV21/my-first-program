@@ -82,7 +82,7 @@ namespace homework_7_strings
 
             for (int i = 0; i < str.Length; i++)
             {
-                if (Char.IsDigit(str[i]))
+                if (Char.IsLetter(str[i]))
                     num.Append(str[i]);
                 else if ((str[i] >= 'A' && str[i] <= 'Z') || (str[i] >= 'a' && str[i] <= 'z'))
                     alpha.Append(str[i]);
