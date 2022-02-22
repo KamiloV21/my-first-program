@@ -23,7 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "homework-6-arrays", "homewo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-7-strings", "lesson-7-strings\lesson-7-strings.csproj", "{7F6B1ADD-5D80-4BF1-85DF-0A069D7CEF6B}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-8-text", "lesson-8-text\lesson-8-text.csproj", "{3073B60E-F429-4638-A0CE-65864388B6AB}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework-7-strings", "homework-7-strings\homework-7-strings.csproj", "{91E40C02-2F69-4321-B308-F8811C7C58E8}"
+>>>>>>> homework/homework-7-strings
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,10 +75,17 @@ Global
 		{7F6B1ADD-5D80-4BF1-85DF-0A069D7CEF6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F6B1ADD-5D80-4BF1-85DF-0A069D7CEF6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F6B1ADD-5D80-4BF1-85DF-0A069D7CEF6B}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{3073B60E-F429-4638-A0CE-65864388B6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3073B60E-F429-4638-A0CE-65864388B6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3073B60E-F429-4638-A0CE-65864388B6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3073B60E-F429-4638-A0CE-65864388B6AB}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{91E40C02-2F69-4321-B308-F8811C7C58E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E40C02-2F69-4321-B308-F8811C7C58E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E40C02-2F69-4321-B308-F8811C7C58E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E40C02-2F69-4321-B308-F8811C7C58E8}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> homework/homework-7-strings
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
