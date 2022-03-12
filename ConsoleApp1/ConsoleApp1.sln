@@ -27,7 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-8-text", "lesson-8-t
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "homework-7-strings", "homework-7-strings\homework-7-strings.csproj", "{91E40C02-2F69-4321-B308-F8811C7C58E8}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework-10-opp", "homework-10-opp\homework-10-opp.csproj", "{8B086376-A15C-4774-AAEA-EFB41859BFD3}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-10-oop", "lesson-10-oop\lesson-10-oop.csproj", "{43541977-637F-4864-A456-B95F00E701DD}"
+>>>>>>> classwork/lesson-10-opp
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -83,10 +87,17 @@ Global
 		{91E40C02-2F69-4321-B308-F8811C7C58E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91E40C02-2F69-4321-B308-F8811C7C58E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91E40C02-2F69-4321-B308-F8811C7C58E8}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{8B086376-A15C-4774-AAEA-EFB41859BFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8B086376-A15C-4774-AAEA-EFB41859BFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B086376-A15C-4774-AAEA-EFB41859BFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B086376-A15C-4774-AAEA-EFB41859BFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{43541977-637F-4864-A456-B95F00E701DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43541977-637F-4864-A456-B95F00E701DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43541977-637F-4864-A456-B95F00E701DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43541977-637F-4864-A456-B95F00E701DD}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> classwork/lesson-10-opp
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
