@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-8-text", "lesson-8-t
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "homework-7-strings", "homework-7-strings\homework-7-strings.csproj", "{91E40C02-2F69-4321-B308-F8811C7C58E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-10-oop", "lesson-10-oop\lesson-10-oop.csproj", "{43541977-637F-4864-A456-B95F00E701DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson-10-oop", "lesson-10-oop\lesson-10-oop.csproj", "{43541977-637F-4864-A456-B95F00E701DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework-12-inheritance,polymorphism", "homework-12-inheritance,polymorphism\homework-12-inheritance,polymorphism.csproj", "{BEE5395E-9777-4742-9108-F3D990E8DDCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{43541977-637F-4864-A456-B95F00E701DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43541977-637F-4864-A456-B95F00E701DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43541977-637F-4864-A456-B95F00E701DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEE5395E-9777-4742-9108-F3D990E8DDCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE5395E-9777-4742-9108-F3D990E8DDCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE5395E-9777-4742-9108-F3D990E8DDCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE5395E-9777-4742-9108-F3D990E8DDCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
